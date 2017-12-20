@@ -1,0 +1,16 @@
+This directory will get used to store your ideas.
+1. Every idea should have a separate directory.
+2. Every idea should have a idea document (Microsoft Word format is preferred), which will explain the idea in detail.
+3. Your idea document should have description about following things:
+	
+	Priority: (High/Medium/Low) based on necessity you feel that idea should get implemented.
+	
+	Time Estimations
+	R&D Estimation: Apart from whatever study you have done till now, how many days it will take to complete the R&D?
+	Implementation Estimation: How long it will take to implementing the idea and with how many developers?
+	Other Estimations: After completing the implementation of idea, what are the factors we need to consider to make it live and estimates for the same.
+	
+	Idea In detail:	
+	Existing products in market and how your idea is different form their:
+	Budget:
+	
