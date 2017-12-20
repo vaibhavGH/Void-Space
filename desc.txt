@@ -1,0 +1,2 @@
+This project is created for gathering the differet ideas which can be later converted to projects.
+In every diectory you will find desc.txt which will descibe what that directory is contain and basic rules to follow write tthe things into that directory.
