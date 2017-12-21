@@ -6,7 +6,7 @@ This directory will get used to store your ideas.
 	Priority: (High/Medium/Low) based on necessity you feel that idea should get implemented.
 	
 	Time Estimations
-	R&D Estimation: Apart from whatever study you have done till now, how many days it will take to complete the R&D?
+	R&D Estimation: Apart from whatever study you have done till now, how many days/months it will take to complete the R&D?
 	Implementation Estimation: How long it will take to implementing the idea and with how many developers?
 	Other Estimations: After completing the implementation of idea, what are the factors we need to consider to make it live and estimates for the same.
 	
